@@ -1,0 +1,2 @@
+# autoclick
+auto clicker - hopefully
